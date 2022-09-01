@@ -6,6 +6,7 @@
 # RRoot,1.1.2030,Created started script
 # RRoot,1.1.2030,Added pseudo-code to start assignment 8
 # HBarsa,8.30.2022,Modified code to complete assignment 8
+# HBarsa,8.30.2022,Edit from desktop
 # ------------------------------------------------------------------------ #
 
 # Data -------------------------------------------------------------------- #
